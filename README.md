@@ -1,10 +1,10 @@
-- 👋 Hi, I’m beginner hacker pro max
-- 👀 I’m interested in ... get my insta back
+- 👋 Hi, I’m beginner cy 
+- 👀 I’m interested in ... penetration testing
 - 🌱 I’m currently learning ... cyber security things
-- 💞️ I’m looking to collaborate on ...geting my insta back
-- 📫 How to reach me ...facebook
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... all youtube vidios dont work to learn hack
+- 💞️ I’m looking to collaborate on ... not yet but open 
+- 📫 How to reach me ...here
+- 😄 Pronouns: ... 
+- ⚡ Fun fact: ... all youtube vidios are useless to learn hack
 
 <!---
 Hassan5122/Hassan5122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
